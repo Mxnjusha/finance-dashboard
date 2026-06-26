@@ -10,6 +10,8 @@
 
 ---
 
+![Dashboard](dashboard.png)     ![Dashboard](dashboard.png)
+
 ## What It Does
 
 Most people do not track their expenses — not because they do not want to, but because every existing tool requires too much effort. Opening an app, selecting a category, typing an amount, hitting save. That friction is enough to make the habit fail within a week.
@@ -248,3 +250,4 @@ The specific problem (expense tracking) was chosen because it is universally rel
 <p align="center">
   Built with ⚙️ n8n &nbsp;·&nbsp; 🤖 Groq &nbsp;·&nbsp; 🗄️ Supabase &nbsp;·&nbsp; 📊 Streamlit
 </p>
+
