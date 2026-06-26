@@ -31,6 +31,8 @@ The AI reads this, pulls out the amount, merchant name, category, and date — e
 
 **Receipt photos** — You photograph any bill, printed receipt, digital invoice screenshot, or handwritten note. The vision AI reads the image, extracts the total amount, shop name, and date, and saves it. You do not type anything.
 
+![Telegram](telegrambot.png)
+
 **Natural language questions** — You ask your spending data questions the same way you would ask a person.
 ```
 "How much did I spend on food this month?"
@@ -43,6 +45,7 @@ The AI generates a SQL query from your question, runs it against your personal d
 
 Everything lands in a live Streamlit dashboard with charts showing monthly trends, category breakdowns, top merchants, and recent transactions. The dashboard has a public URL you can open on any device.
 
+![Telegram](telegrambot1.png)
 ---
 
 ## Architecture
