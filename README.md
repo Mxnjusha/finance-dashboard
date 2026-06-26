@@ -9,8 +9,8 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
+![Dashboard](dashboard1.png)    
 
-![Dashboard](dashboard1.png)     ![Dashboard](dashboard.png)
 
 ## What It Does
 
