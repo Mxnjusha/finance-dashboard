@@ -16,7 +16,7 @@ Most people do not track their expenses — not because they do not want to, but
 
 This project removes the friction entirely. Your Telegram bot is always open on your phone. You spend money, you send a message. That is all.
 
-![Dashboard](dashboard1.png) 
+![Dashboard](dashboard.png) 
 
 The system handles three types of input automatically:
 
