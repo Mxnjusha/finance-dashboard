@@ -10,7 +10,7 @@
 
 ---
 
-![Dashboard](dashboard.png)     ![Dashboard](dashboard.png)
+![Dashboard](dashboard1.png)     ![Dashboard](dashboard.png)
 
 ## What It Does
 
