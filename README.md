@@ -9,14 +9,14 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
-![Dashboard](dashboard1.png)    
-
 
 ## What It Does
 
 Most people do not track their expenses — not because they do not want to, but because every existing tool requires too much effort. Opening an app, selecting a category, typing an amount, hitting save. That friction is enough to make the habit fail within a week.
 
 This project removes the friction entirely. Your Telegram bot is always open on your phone. You spend money, you send a message. That is all.
+
+![Dashboard](dashboard1.png) 
 
 The system handles three types of input automatically:
 
@@ -29,9 +29,14 @@ The system handles three types of input automatically:
 ```
 The AI reads this, pulls out the amount, merchant name, category, and date — even when the date is relative like "yesterday" or "last Tuesday" — and saves a clean structured record to the database.
 
+<div align="center">
+  <img src="telegrambot.png" width="380"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="telegrambot1.png" width="380"/>
+</div>
+
 **Receipt photos** — You photograph any bill, printed receipt, digital invoice screenshot, or handwritten note. The vision AI reads the image, extracts the total amount, shop name, and date, and saves it. You do not type anything.
 
-![Telegram](telegrambot.png)
 
 **Natural language questions** — You ask your spending data questions the same way you would ask a person.
 ```
@@ -45,7 +50,7 @@ The AI generates a SQL query from your question, runs it against your personal d
 
 Everything lands in a live Streamlit dashboard with charts showing monthly trends, category breakdowns, top merchants, and recent transactions. The dashboard has a public URL you can open on any device.
 
-![Telegram](telegrambot1.png)
+
 ---
 
 ## Architecture
